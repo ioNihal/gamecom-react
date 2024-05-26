@@ -5,10 +5,10 @@ import '../styles/MainCon.css';
 
 
 const images = [
-  'public/images/art1.jpeg',
-  'public/images/art2.jpeg',
-  'public/images/art3.jpeg',
-  'public/images/art4.jpeg'
+  '../images/art1.jpeg',
+  '../images/art2.jpeg',
+  '../images/art3.jpeg',
+  '../images/art4.jpeg'
 ];
 
 const MainContent = () => (
