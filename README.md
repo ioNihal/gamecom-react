@@ -1,5 +1,4 @@
-# Preview here :
-https://gamecom-react.vercel.app
+**Live at** https://gamecom.ionihal.xyz
 # GameCom Site using ReactJS
 
 ## Project Overview
